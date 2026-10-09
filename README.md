@@ -35,3 +35,23 @@ Creo en el aprendizaje continuo, la colaboración y en una tecnología que no so
 **Inteligencia Artificial:** Machine Learning, Deep Learning y Procesamiento de Lenguaje Natural.
 
 **Entornos de desarrollo:** Jupyter Notebook, Google Colab y AWS SageMaker.
+
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🏦 Predicción de riesgo en créditos hipotecarios
+Proyecto académico en desarrollo que explora el uso de Machine Learning para anticipar riesgos de incumplimiento y apoyar la toma de decisiones preventivas.
+
+**Tecnologías:** Python, Machine Learning, AWS y MLOps.
+
+### 🖼️ Motor de búsqueda multimodal de ropa
+Desarrollo de un sistema de búsqueda de prendas mediante texto e imágenes, utilizando modelos de inteligencia artificial multimodal.
+
+**Tecnologías:** Python, CLIP y Deep Learning.
+
+### 📊 Evaluación y priorización de iniciativas de IA
+Análisis de propuestas de inteligencia artificial considerando su viabilidad técnica, impacto operativo, costos y valor estratégico.
+
+**Enfoque:** Gestión de proyectos, análisis financiero e inteligencia artificial.
