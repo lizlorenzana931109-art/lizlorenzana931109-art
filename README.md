@@ -55,3 +55,18 @@ Desarrollo de un sistema de búsqueda de prendas mediante texto e imágenes, uti
 Análisis de propuestas de inteligencia artificial considerando su viabilidad técnica, impacto operativo, costos y valor estratégico.
 
 **Enfoque:** Gestión de proyectos, análisis financiero e inteligencia artificial.
+
+
+---
+
+## 🎓 Formación académica
+
+**Maestría en Inteligencia Artificial | Universidad Tecmilenio**  
+En curso · Finalización prevista: 2026
+
+Formación en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural, Visión por Computadora y Gestión de Proyectos con Inteligencia Artificial.
+
+**Licenciatura en Administración de Empresas | Universidad del Valle de México (UVM)**
+
+Formación orientada a la gestión empresarial, análisis de procesos y toma de decisiones estratégicas.
+
