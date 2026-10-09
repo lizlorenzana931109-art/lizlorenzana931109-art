@@ -70,3 +70,17 @@ Formación en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural
 
 Formación orientada a la gestión empresarial, análisis de procesos y toma de decisiones estratégicas.
 
+
+---
+
+## 🤝 ¡Conectemos!
+
+Me interesa compartir conocimientos, aprender de otras personas y colaborar en proyectos de inteligencia artificial, análisis de datos y transformación digital.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lizbrunolor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lizbeth%20Bruno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn">
+  </a>
+</p>
+
+
